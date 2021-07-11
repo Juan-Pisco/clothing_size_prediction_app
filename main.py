@@ -5,7 +5,7 @@ from PyQt5.QtCore import QSize
 from PyQt5.QtGui import QIcon
 import torch
 
-# This import statement is necessary for the app to work well with resources
+# This import statement is necessary for the app to work well with the resources
 
 import res_rc
 
