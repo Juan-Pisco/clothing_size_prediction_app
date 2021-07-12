@@ -25,7 +25,21 @@ Follow these instructions in order to run everything perfectly.
 `python main.py`
 3. To open the notebook, run the `Data Analysis and Model Training.ipynb` notebook and run all the cells to get the model trained and the data preprocessed.
 
+## Desktop app instructions
+1. Introduce your weight in the number placeholder "Weight (kg)"
+2. Introduce your age in the number placeholder "Age (yrs)"
+3. Introduce your height in the number placeholder "height (cm)"
+4. Click the "predict" button and check your results
+5. (Optional) Click on the "About" button to see social media and GitHub information
 
 
+## License
+Created, designed and coded by Juan David Pisco Jaimes.
+[Github](https://github.com/JuanDavidPiscoJaimes)
+[LinkedIn](https://www.linkedin.com/in/juan-david-pisco-jaimes-286191200/)
 
+## App screenshots
+![](screenshots/screenshot.png)\
+![](screenshots/screenshot2.png)\
+![](screenshots/screenshot3.png)
 
