@@ -39,7 +39,7 @@ Created, designed and coded by Juan David Pisco Jaimes.
 [LinkedIn](https://www.linkedin.com/in/juan-david-pisco-jaimes-286191200/)
 
 ## App screenshots
-![](screenshots/screenshot.png)\
-![](screenshots/screenshot2.png)\
-![](screenshots/screenshot3.png)
+![screenshot1](screenshots/screenshot.png)\
+![screenshot2](screenshots/screenshot2.png)\
+![screenshot2](screenshots/screenshot3.png)
 
