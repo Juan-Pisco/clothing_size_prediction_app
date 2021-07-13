@@ -3,7 +3,7 @@
 Predict your clothing size according to your height, age and weight in a intuitive Qt desktop app (Windows and Mac available) with the help of artificial intelligence to make your online purchases more secure and confident.
 
 ## Project Motivation 
-* Buying clothes online is a headache for all people who are not sure about their size in a certain store, that's why with this app, the customer can be more confindent with a ML solution which recommends for the clothing size that best fits the cutsomer's body shape. The idea behind this is to sell the product to clothing stores and reinforce the training with data from new costumers so the model is more precise and related to each store. 
+* Buying clothes online is a headache for all people who are not sure about their size in a certain store, that's why with this app, the customer can be more confident with an ML solution that recommends the clothing size that best fits the customer's body shape. The idea behind this is to sell the product to clothing stores and reinforce the training with data from new customers so the model is more precise and related to each store. 
 * Udacity's Data Science Nanodegree capstone project.
 
 ## Files Explanation
