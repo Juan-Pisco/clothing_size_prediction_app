@@ -39,7 +39,7 @@ Created, designed and coded by Juan David Pisco Jaimes.
 [LinkedIn](https://www.linkedin.com/in/juan-david-pisco-jaimes-286191200/)
 
 ## App screenshots
-![](./screenshots/screenshot.png)\
-![](./screenshots/screenshot2.png)\
-![](./screenshots/screenshot3.png)
+![](https://github.com/JuanDavidPiscoJaimes/clothing_size_prediction_app/blob/master/screenshots/screenshot.PNG)\
+![](https://github.com/JuanDavidPiscoJaimes/clothing_size_prediction_app/blob/master/screenshots/screenshot2.PNG)\
+![](https://github.com/JuanDavidPiscoJaimes/clothing_size_prediction_app/blob/master/screenshots/screenshot3.PNG)
 
